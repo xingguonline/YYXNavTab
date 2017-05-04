@@ -29,11 +29,11 @@
 
 
 下载了记得点个star，握爪。
-
+---------
 提醒：使用代码启动
  ![image](https://github.com/xingguonline/YYXNavTab/blob/master/YYXNavTab/Image/y2.png)
- 
+---------
 提醒：自定义plist文件
  ![image](https://github.com/xingguonline/YYXNavTab/blob/master/YYXNavTab/Image/y3.png)
-
+--------
 
