@@ -1,17 +1,15 @@
 # YYXNavTab
 
-标签栏加导航控制器
+简单-快速-标签栏加导航控制器
 
-网上很多太复杂了！！！
-自己写了一个最快捷搭建的，
 设置代码启动，
 然后调用就可以了，
-封装成plist文件，直接修改plist图标名就OK了！！！
+封装成plist文件，直接修改plist图标名就OK了。
 <br>
  ![image](https://github.com/xingguonline/YYXNavTab/blob/master/YYXNavTab/Image/y0.png)
 <br>
 
-在APPDelegate调用，下面几行代码搞定！！！
+在APPDelegate调用，下面代码搞定。
 
     //初始化自定义
     YYXNavTabController *vc = [YYXNavTabController new];
@@ -30,7 +28,6 @@
 2、在APPDelegate里导入并调用，OK！
 
 
-下载了记得点个star，握爪。
 ---------
 提醒：使用代码启动
 <br>
